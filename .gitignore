@@ -2,3 +2,6 @@
 *.asv
 *.prj
 
+#MATLAB Project Resources
+/resources
+
