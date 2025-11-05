@@ -2,9 +2,3 @@
 *.asv
 *.prj
 
-
-# Configs
-DRAGON.cfg
-
-DRAGON/
-resources/
