@@ -1,7 +1,28 @@
-# MATLAB Files
+# MATLAB autosave files
 *.asv
+
+# MATLAB data files (except examples)
+*.mat
+!data/examples/*.mat
+!examples/*.mat
+
+# Large data and projects
+data/projects/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# MATLAB session info
+*.autosave
+slprj/
+
+# MATLAB Project files
 *.prj
-
-#MATLAB Project Resources
-/resources
-
+resources/
